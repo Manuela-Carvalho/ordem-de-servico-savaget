@@ -58,7 +58,17 @@ Etapas:
 
 ## 📷 Capturas de tela
 
-*Inserir aqui prints do formulário, do PDF gerado e da planilha com os dados salvos.*
+### Formulário HTML do sistema
+![Formulário](https://raw.githubusercontent.com/Manuela-Carvalho/ordem-de-servico-savaget/main/formulario_corrigido.png)
+
+### Código em Python (integração com Drive, Sheets e Flask)
+![Código Python](https://raw.githubusercontent.com/Manuela-Carvalho/ordem-de-servico-savaget/main/codigo_python.png)
+
+### Código e visual do recibo gerado (HTML + CSS)
+![Recibo gerado](https://raw.githubusercontent.com/Manuela-Carvalho/ordem-de-servico-savaget/main/codigo_recibo.png)
+
+### Recibo gerado pronto para impressão
+![Recibo final](https://raw.githubusercontent.com/Manuela-Carvalho/ordem-de-servico-savaget/main/recibo_funcionando.png)
 
 ---
 
